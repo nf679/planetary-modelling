@@ -1,6 +1,6 @@
 # Planetary Modelling
 
-A model of a planetary system in Python. Started as a project for first year computational laboratory, but I am working on adding my own features.
+A model of a planetary system in Python. Started as a project for first year computational laboratory, but I am working on adding extra features.
 
 <h2> Binary Sytstem </h2>
 
