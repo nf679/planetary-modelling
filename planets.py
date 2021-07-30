@@ -1,4 +1,4 @@
-gfrom vpython import *
+from vpython import *
 import numpy as np
 from copy import *
 import matplotlib.pyplot as p 
@@ -21,7 +21,7 @@ maxstep = 50000
 G = 1
 
 # Select either the two object testing system or planetary system
-planetOption = int(input("Enter 1 for testing two object binary system, 2 for plaetary system with central body: "))
+planetOption = int(input("Enter 1 for testing two object binary system, 2 for planetary system with central body: "))
 
 #  Define the star, planets and constants as arrays based on user input above
 
